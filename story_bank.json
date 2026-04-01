@@ -1,61 +1,61 @@
 [
   {
-    "id": 5,
-    "title": "The Boy Who Cried Wolf",
-    "moral": "Liars are not believed even when they speak the truth.",
+    "id": 10,
+    "title": "The Ant and the Dove",
+    "moral": "One good turn deserves another.",
     "scenes": [
       {
-        "short_narration": "This is the story of... The Boy Who Cried Wolf!",
-        "long_narration": "Welcome everyone! Today, we are going to tell you the important and famous story of... The Boy Who Cried Wolf!",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty rolling green hills background on the left and right sides. A young shepherd boy holding a wooden staff, standing next to a fluffy white sheep. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "This is the story of... The Ant and the Dove!",
+        "long_narration": "Welcome everyone! Today, we are going to tell you the beautiful and kind story of... The Ant and the Dove!",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty riverbank background on the left and right sides. A tiny red ant standing on the ground looking up at a gentle white dove in a tree. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "A young shepherd boy watched his sheep on a quiet hill.",
-        "long_narration": "Once upon a time, a young shepherd boy was sitting on a quiet, grassy hill. His job was to watch the village sheep, but he was feeling very bored.",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty green hillside background on the left and right sides. A bored young boy sitting on a rock, resting his chin on his hands, while fluffy sheep eat grass around him. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "One hot day, a thirsty little ant went to the river to drink.",
+        "long_narration": "On a very hot summer day, a thirsty little red ant was walking along looking for water. He finally found a fast-flowing river and climbed onto a rock to take a drink.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty fast-flowing river background on the left and right sides. A tiny red ant leaning over a wet rock to drink from a blue river. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "To have some fun, he decided to play a trick on the villagers.",
-        "long_narration": "To make things exciting, he decided to play a naughty trick on the kind people of his village. He took a deep breath and shouted as loud as he could!",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty green hillside background on the left and right sides. A shepherd boy standing up tall with his hands cupped around his mouth, shouting down the hill. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "Oh no! The ant slipped and fell into the fast river!",
+        "long_narration": "Suddenly, his little foot slipped on the wet moss! Splash! The poor ant tumbled right into the cold, fast-moving water. He struggled to stay afloat.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty swirling river background on the left and right sides. A tiny red ant splashing and struggling in blue river rapids. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "He yelled, \"Wolf! Wolf! A wolf is chasing the sheep!\"",
-        "long_narration": "\"Wolf! Wolf!\" the boy screamed at the top of his lungs. \"Help me! A big, scary wolf is chasing the sheep!\"",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty green hillside background on the left and right sides. A boy pointing dramatically with a fake scared look on his face, pretending a wolf is near. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "A kind dove in a tree saw the ant drowning.",
+        "long_narration": "High up in a nearby tree, a kind white dove was resting. She looked down and saw the tiny ant fighting for his life in the dangerous water.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty leafy tree background on the left and right sides. A beautiful white dove sitting on a branch, looking down with a worried expression. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "The villagers ran up the hill to help him.",
-        "long_narration": "Hearing the boy's cries, the brave villagers dropped their tools and ran all the way up the steep hill to save the boy and his flock.",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty dirt path background on the left and right sides. A group of worried villagers running up a steep green hill carrying pitchforks and buckets. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "The dove quickly dropped a leaf into the water for the ant.",
+        "long_narration": "The dove knew she had to help! She quickly plucked a large green leaf from the tree with her beak and dropped it into the river, right next to the struggling ant.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty river background on the left and right sides. A white dove flying low over the water, dropping a large green leaf to a splashing red ant. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "But there was no wolf. The boy just laughed at them!",
-        "long_narration": "When they reached the top, they saw the sheep resting peacefully. There was no wolf at all! The naughty boy just pointed at them and laughed a huge belly laugh.",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty green hillside background on the left and right sides. A shepherd boy rolling on the grass laughing loudly, while a group of villagers look tired and very annoyed. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "The ant climbed onto the leaf and floated to safety.",
+        "long_narration": "The ant used all his remaining strength to climb up onto the floating green leaf. Safe at last! The leaf drifted gently toward the dry riverbank.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty calm river background on the left and right sides. A tired but relieved red ant resting on a green leaf floating towards the dirt shore. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "A few days later, a real, scary wolf actually appeared!",
-        "long_narration": "The angry villagers went back to work. But a few days later, as the sun was setting, a real, hungry wolf crept out of the dark forest and sneaked toward the sheep!",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty dark forest edge background on the left and right sides. A scary but child-friendly grey wolf sneaking out of some bushes toward a flock of sheep. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "Later, a hunter came to the forest to catch the dove.",
+        "long_narration": "A few days later, a sneaky hunter came into the forest. He saw the beautiful dove sleeping in the tree and aimed his heavy net to catch her!",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty forest floor background on the left and right sides. A sneaky hunter in brown clothes aiming a large rope net up toward a tree. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "The terrified boy yelled for help, \"Wolf! Wolf! Help!\"",
-        "long_narration": "The boy was absolutely terrified! He waved his arms and screamed, \"Wolf! Wolf! Please help! This time it's real!\"",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty green hillside background on the left and right sides. A genuinely terrified boy waving his arms frantically and screaming for help, tears in his eyes. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "The ant saw the hunter and knew he had to save his friend!",
+        "long_narration": "The little ant was walking nearby and saw the terrible hunter. He knew the dove was in great danger and remembered how she had saved his life.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty dirt path background on the left and right sides. A tiny red ant looking shocked and determined at the hunter's big boots. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "But the villagers thought it was another trick and didn't come.",
-        "long_narration": "Down in the village, the people heard him crying. But they shook their heads. \"He is just trying to trick us again,\" they said. So, nobody went up the hill.",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty village square background on the left and right sides. Villagers ignoring the distant shouts, shaking their heads and continuing their work in the town. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "The ant bit the hunter's foot! OUCH!",
+        "long_narration": "The brave ant ran as fast as he could and climbed right onto the hunter's foot. With a mighty chomp, he bit the hunter's toe! \"OUCH!\" the hunter screamed, dropping his net.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty forest floor background on the left and right sides. A hunter jumping in the air and holding his foot in pain, dropping a net, while a tiny red ant stands bravely below. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "The wolf chased all the sheep away. Remember, always tell the truth.",
-        "long_narration": "Because nobody came to help, the wolf chased all the poor sheep away. The boy sat alone and cried. Remember my friends, the learning of this story is... Liars are not believed, even when they speak the truth.",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty sunset hillside background on the left and right sides. A sad boy sitting alone on a hill crying, with his sheep gone. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "The dove flew away safely. Remember, one good turn deserves another.",
+        "long_narration": "The noise woke up the dove, and she quickly flew away to safety. The ant had returned the favor! Remember my friends, the learning of this story is... One good turn deserves another.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty blue sky background on the left and right sides. A white dove flying safely high in the sky, while a happy ant waves from the ground. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       }
     ],
-    "description": "The Boy Who Cried Wolf | A fun animated moral story for kids!\n\nMoral: Liars are not believed even when they speak the truth.\n\n#Shorts #KidsStory #MoralStory #BedtimeStory #AnimatedStory",
+    "description": "The Ant and the Dove | A fun animated moral story for kids!\n\nMoral: One good turn deserves another.\n\n#Shorts #KidsStory #MoralStory #BedtimeStory #AnimatedStory",
     "tags": [
       "kids story",
       "moral story",
@@ -65,68 +65,352 @@
       "story for kids",
       "life lesson",
       "short story",
-      "the boy who cried wolf",
+      "the ant and the dove",
+      "kindness"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "The Bear and the Two Friends",
+    "moral": "A friend in need is a friend indeed.",
+    "scenes": [
+      {
+        "short_narration": "This is the story of... The Bear and the Two Friends!",
+        "long_narration": "Welcome everyone! Today, we are going to tell you the important and suspenseful story of... The Bear and the Two Friends!",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty forest background on the left and right sides. Two young boys in camping clothes standing next to each other, with a shadow of a big bear behind them. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "Two best friends were walking through a deep, dark forest.",
+        "long_narration": "Once upon a time, two best friends were traveling together. They were walking down a long, winding path through a very deep and quiet forest.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty forest path background on the left and right sides. Two boys walking side by side on a dirt path surrounded by tall green trees. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "They promised to protect each other if any danger came.",
+        "long_narration": "They knew the forest could be dangerous. They shook hands and made a solemn promise to stick together and protect each other, no matter what happened.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty forest background on the left and right sides. Two friends smiling and shaking hands happily under the sunlight streaming through the trees. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "Suddenly, a huge, scary bear appeared on the path!",
+        "long_narration": "Suddenly, they heard a loud snap! A huge, brown, scary bear stepped out from the bushes and stood right in the middle of their path, blocking their way.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty forest path background on the left and right sides. A giant brown bear standing on its hind legs roaring, while two boys look terrified in the foreground. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "One friend ran away and climbed a tree, leaving the other behind.",
+        "long_narration": "Without thinking of his promise, one of the friends panicked! He ran away as fast as he could and scrambled up a tall tree, leaving his best friend all alone on the ground.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty forest background on the left and right sides. One boy climbing high up a tall tree trunk, while the other boy stands on the ground looking shocked and scared. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "The other boy couldn't run, so he threw himself on the ground.",
+        "long_narration": "The boy left on the ground didn't know how to climb. He knew he couldn't outrun the bear. So, he threw himself flat on the dirt and held his breath, pretending to be dead.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty dirt floor background on the left and right sides. A boy lying completely flat and still on the forest floor with his eyes squeezed shut. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "The big bear sniffed the boy's ears and face.",
+        "long_narration": "The massive bear slowly lumbered over to the boy. It leaned down, sniffing the boy's ears, nose, and face with its wet snout. The boy was terrified but didn't move a muscle.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty forest floor background on the left and right sides. A large brown bear leaning down to sniff the ear of a boy lying still on the ground. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "Bears don't touch dead things! So the bear walked away.",
+        "long_narration": "People say that bears will not touch a creature that is already dead. Thinking the boy was lifeless, the bear lost interest, turned around, and slowly walked back into the woods.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty forest background on the left and right sides. A big brown bear walking away into the bushes, leaving the boy lying safely on the ground. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "The friend climbed down and asked, \"What did the bear say to you?\"",
+        "long_narration": "Once the bear was gone, the friend in the tree climbed down safely. He laughed and asked, \"It looked like the bear whispered a secret in your ear! What did he say?\"",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty forest background on the left and right sides. A boy jumping down from a tree, smiling and asking a question to his friend who is dusting off his clothes. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "He said, \"Never trust a friend who leaves you in danger!\"",
+        "long_narration": "The boy dusted off his clothes, looked his friend in the eye, and said, \"He told me never to trust a friend who abandons you in danger!\" Remember my friends, the learning of this story is... A friend in need is a friend indeed.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty forest background on the left and right sides. A boy pointing a stern finger at his guilty-looking friend, before turning to walk away alone. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      }
+    ],
+    "description": "The Bear and the Two Friends | A fun animated moral story for kids!\n\nMoral: A friend in need is a friend indeed.\n\n#Shorts #KidsStory #MoralStory #BedtimeStory #AnimatedStory",
+    "tags": [
+      "kids story",
+      "moral story",
+      "bedtime story",
+      "children story",
+      "animated story",
+      "story for kids",
+      "life lesson",
+      "short story",
+      "the bear and the two friends",
+      "true friendship"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "The Wind and the Sun",
+    "moral": "Gentleness is stronger than force.",
+    "scenes": [
+      {
+        "short_narration": "This is the story of... The Wind and the Sun!",
+        "long_narration": "Welcome everyone! Today, we are going to tell you the magical and wise story of... The Wind and the Sun!",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty blue sky background on the left and right sides. A puffy grey cloud blowing wind and a bright smiling yellow sun looking at each other. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "The strong Wind and the bright Sun were having a big argument.",
+        "long_narration": "One day high up in the sky, the strong, blustery Wind and the bright, warm Sun were having an argument. They were trying to decide who was the most powerful.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty sky background on the left and right sides. A grey wind cloud with an angry face arguing with a bright yellow sun with crossed arms. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "They saw a man walking below, wearing a heavy winter coat.",
+        "long_narration": "As they argued, they looked down at the earth and saw a traveler walking along a dirt road. He was wrapped up tight in a heavy, thick winter coat.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty dirt road background on the left and right sides. A man walking down a road wearing a thick brown winter coat and a scarf. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "They made a bet: whoever can make him take off his coat wins!",
+        "long_narration": "The Sun smiled and suggested a contest. \"Whoever can force that traveler to take off his coat first will be considered the strongest!\" The Wind quickly agreed.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty sky background on the left and right sides. The Sun and the Wind cloud shaking hands on a bet, looking down at the tiny man below. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "The Wind tried first. He blew as hard and cold as he could!",
+        "long_narration": "The Wind went first. He took a deep breath and blew with all his might! He sent a freezing, howling gale straight at the poor traveler.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty road background on the left and right sides. A grey wind cloud blowing an intense icy blue stream of air at a man walking on a road. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "But the colder it got, the tighter the man held his coat.",
+        "long_narration": "But the harder and colder the Wind blew, the colder the man felt. Instead of taking the coat off, the man shivered and wrapped his heavy coat even tighter around himself.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty windy road background on the left and right sides. A shivering man holding his brown coat tightly shut with both hands while leaves blow past him. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "The Wind was tired and gave up. Now it was the Sun's turn.",
+        "long_narration": "Finally, the Wind was completely out of breath. He huffed and puffed, but he gave up. The Sun smiled warmly. \"Now, watch me,\" he said gently.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty sky background on the left and right sides. A tired, deflated wind cloud panting, while the bright Sun steps forward with a gentle smile. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "The Sun smiled and shined his warm, beautiful light.",
+        "long_narration": "The Sun peeked out from behind the clouds and began to shine. He didn't use force; he just sent down his gentle, bright, and incredibly warm rays over the traveler.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty bright road background on the left and right sides. A beautiful yellow sun glowing brightly, sending warm golden rays down to the road. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "The man got very hot and started to sweat.",
+        "long_narration": "Soon, the frosty air disappeared. The day grew hotter and hotter. The traveler wiped his forehead, feeling very warm and sweaty in his thick clothes.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty sunny road background on the left and right sides. A man walking on a road, wiping sweat from his forehead with a handkerchief, looking very hot. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "He took his coat off! The Sun won the bet.",
+        "long_narration": "It was too hot to wear such heavy clothes! The traveler gladly took off his heavy coat and carried it over his arm. The Sun had won the bet!",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty sunny road background on the left and right sides. A happy man walking in a short-sleeve shirt, carrying his heavy brown coat casually over his arm. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "Gentleness works better than pushing! Remember to be kind.",
+        "long_narration": "The Wind learned that you can't force people to do things. The gentle Sun was much more powerful. Remember my friends, the learning of this story is... Gentleness is stronger than force.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty sky background on the left and right sides. A happy Sun wearing a gold medal smiling next to a friendly wind cloud. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      }
+    ],
+    "description": "The Wind and the Sun | A fun animated moral story for kids!\n\nMoral: Gentleness is stronger than force.\n\n#Shorts #KidsStory #MoralStory #BedtimeStory #AnimatedStory",
+    "tags": [
+      "kids story",
+      "moral story",
+      "bedtime story",
+      "children story",
+      "animated story",
+      "story for kids",
+      "life lesson",
+      "short story",
+      "the wind and the sun",
+      "be gentle"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "The Fox and the Stork",
+    "moral": "Treat others as you would like to be treated.",
+    "scenes": [
+      {
+        "short_narration": "This is the story of... The Fox and the Stork!",
+        "long_narration": "Welcome everyone! Today, we are going to tell you the tricky and funny story of... The Fox and the Stork!",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty forest background on the left and right sides. A mischievous orange fox standing next to a tall white stork with a long beak. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "A tricky fox invited his friend the stork to his house for dinner.",
+        "long_narration": "One day, a very tricky orange fox decided to play a prank. He invited his good friend, a tall white stork, over to his den for a delicious dinner.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty forest background on the left and right sides. An orange fox handing a fancy invitation card to a tall white stork who is smiling. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "But the tricky fox served the soup in very flat dishes!",
+        "long_narration": "When the stork arrived, he was very hungry. But the naughty fox served the yummy, hot soup in completely flat, shallow plates on the table.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty dining room background on the left and right sides. An orange fox pouring soup into two very flat, wide plates on a wooden table. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "The fox licked up all his soup easily, but the stork couldn't.",
+        "long_narration": "The fox easily licked up all his soup with his wide tongue. But the poor stork, with his very long and pointy beak, couldn't get a single drop!",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty dining room background on the left and right sides. A fox happily licking a flat plate clean, while a stork taps its long beak sadly against an empty flat plate. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "The poor stork went home very hungry and decided to play a trick too.",
+        "long_narration": "The hungry stork politely thanked the fox, but inside he was quite annoyed. He went home hungry and decided to invite the fox over for dinner the very next day.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty forest background on the left and right sides. A hungry stork walking away holding his stomach, while the fox laughs in the background. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "The next day, the fox went to the stork's house to eat.",
+        "long_narration": "The fox happily accepted the invitation. He arrived at the stork's house, licking his lips, expecting another wonderful meal.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty front porch background on the left and right sides. An orange fox knocking on a wooden door, holding a napkin and looking excited. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "This time, the stork served the food in a tall jar with a skinny neck!",
+        "long_narration": "But this time, the stork had prepared a surprise! He served the delicious, smelly meat inside a very tall glass jar with an incredibly long and skinny neck.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty dining room background on the left and right sides. A tall stork placing two tall glass jars with very thin necks full of food on a table. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "The stork easily ate the food with his long beak.",
+        "long_narration": "The stork simply dipped his long, thin beak straight down the neck of the jar and enjoyed his tasty meal without any trouble at all.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty dining room background on the left and right sides. A stork happily eating food out of a tall thin jar with its long beak. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "But the fox's head was too big to fit inside the jar!",
+        "long_narration": "The fox tried and tried, but his head was much too big! He couldn't fit his nose inside the jar. He could only lick the outside glass, and he stayed very hungry.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty dining room background on the left and right sides. An orange fox angrily trying to shove his face into a thin jar, looking very frustrated. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "The fox learned his lesson. Remember to be kind to others!",
+        "long_narration": "The fox realized he had been tricked, just as he had tricked the stork. He walked away with a rumbling tummy. Remember my friends, the learning of this story is... Treat others as you would like to be treated.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty forest background on the left and right sides. A hungry orange fox walking home sadly holding his stomach, realizing his mistake. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      }
+    ],
+    "description": "The Fox and the Stork | A fun animated moral story for kids!\n\nMoral: Treat others as you would like to be treated.\n\n#Shorts #KidsStory #MoralStory #BedtimeStory #AnimatedStory",
+    "tags": [
+      "kids story",
+      "moral story",
+      "bedtime story",
+      "children story",
+      "animated story",
+      "story for kids",
+      "life lesson",
+      "short story",
+      "fox and stork",
+      "treat others well"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "The Honest Woodcutter",
+    "moral": "Honesty is always the best policy.",
+    "scenes": [
+      {
+        "short_narration": "This is the story of... The Honest Woodcutter!",
+        "long_narration": "Welcome everyone! Today, we are going to tell you the magical and rewarding story of... The Honest Woodcutter!",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty forest background on the left and right sides. A kind-looking woodcutter holding an old iron axe, standing next to a sparkling blue river. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "A poor woodcutter was chopping down a tree near a deep river.",
+        "long_narration": "Once upon a time, a very poor but hardworking woodcutter was chopping branches off a tree right on the edge of a deep, fast-moving river.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty riverbank background on the left and right sides. A woodcutter swinging an iron axe at a tree trunk near the edge of a bright blue river. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "Oops! His heavy iron axe slipped and fell deep into the water.",
+        "long_narration": "Suddenly, his hands got sweaty! The heavy iron axe slipped right out of his grip, flew through the air, and went SPLASH into the deep river, sinking to the bottom.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty river background on the left and right sides. A woodcutter looking shocked as his iron axe flies out of his hands and falls into the water with a splash. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "He cried because it was his only axe to make money.",
+        "long_narration": "The poor woodcutter sat down on the grass and began to cry. That was his only axe! Without it, he couldn't chop wood to buy food for his family.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty riverbank background on the left and right sides. A sad woodcutter sitting on a rock by the river, holding his face in his hands and crying. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "Suddenly, a magical fairy appeared from the sparkling water!",
+        "long_narration": "Hearing his sad cries, the water started to bubble and glow! Suddenly, a beautiful, magical river fairy rose up from the sparkling blue water to help him.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty glowing river background on the left and right sides. A beautiful magical water fairy with glowing wings rising out of the river, looking kindly at the woodcutter. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "She dived down and brought up a beautiful axe made of gold!",
+        "long_narration": "The fairy felt sorry for him. She dived deep into the water and came back up holding a beautiful, shiny axe made entirely of solid gold! \"Is this your axe?\" she asked.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty riverbank background on the left and right sides. A magical fairy hovering over the water, holding out a glowing solid gold axe to the woodcutter. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "The honest woodcutter said, \"No, that is not my axe.\"",
+        "long_narration": "The woodcutter looked at the golden axe. Even though it was very valuable, he was an honest man. \"No, kind fairy,\" he said sadly. \"That is not my axe.\"",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty riverbank background on the left and right sides. An honest woodcutter shaking his head with his hands up, refusing the golden axe from the fairy. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "She dived again and brought up a shiny silver axe. He said no again.",
+        "long_narration": "The fairy smiled and dived down again. This time, she brought up a sparkling axe made of silver! But the woodcutter shook his head again. \"No, that is not mine either.\"",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty riverbank background on the left and right sides. A magical fairy holding out a bright silver axe, and the woodcutter shaking his head again politely. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "Finally, she brought up his old iron axe. He was so happy!",
+        "long_narration": "For the third time, the fairy dived down. When she came up, she held his old, worn-out iron axe. The woodcutter jumped for joy! \"Yes! That is my axe! Thank you!\"",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty riverbank background on the left and right sides. A fairy holding out an old iron axe to a very happy woodcutter who is jumping with joy. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "She gave him all three axes! Remember, always tell the truth.",
+        "long_narration": "The fairy was so pleased with his honesty that she gave him his iron axe, AND the gold and silver axes as a reward! Remember my friends, the learning of this story is... Honesty is always the best policy.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty forest background on the left and right sides. A happy woodcutter walking home carrying three glowing axes: gold, silver, and iron. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      }
+    ],
+    "description": "The Honest Woodcutter | A fun animated moral story for kids!\n\nMoral: Honesty is always the best policy.\n\n#Shorts #KidsStory #MoralStory #BedtimeStory #AnimatedStory",
+    "tags": [
+      "kids story",
+      "moral story",
+      "bedtime story",
+      "children story",
+      "animated story",
+      "story for kids",
+      "life lesson",
+      "short story",
+      "honest woodcutter",
       "always tell the truth"
     ]
   },
   {
-    "id": 6,
-    "title": "The Fox and the Grapes",
-    "prompt": "It is easy to despise what you cannot have.",
-    "moral": "It is easy to despise what you cannot have.",
+    "id": 15,
+    "title": "The Dog and the Bone",
+    "moral": "Be content with what you have.",
     "scenes": [
       {
-        "short_narration": "This is the story of... The Fox and the Grapes!",
-        "long_narration": "Welcome everyone! Today, we are going to tell you the funny and classic story of... The Fox and the Grapes!",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty sunny vineyard background on the left and right sides. A clever orange fox looking up at a bunch of purple grapes hanging from a vine. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "This is the story of... The Dog and the Bone!",
+        "long_narration": "Welcome everyone! Today, we are going to tell you the silly and important story of... The Dog and the Bone!",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty town street background on the left and right sides. A happy brown dog holding a large, delicious-looking bone in his mouth. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "One sunny afternoon, a very hungry fox was walking through the woods.",
-        "long_narration": "One bright and sunny afternoon, a clever orange fox was taking a long walk through the countryside. His tummy was rumbling because he was very, very hungry.",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty green forest path background on the left and right sides. An orange fox walking down a dirt path, holding his stomach looking hungry. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "A hungry dog found a big, delicious bone and felt very lucky.",
+        "long_narration": "One sunny day, a hungry stray dog was wandering around the town. He got very lucky and found a massive, juicy bone outside a butcher's shop! He was so happy.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty butcher shop exterior background on the left and right sides. A happy brown dog picking up a giant bone from the cobblestone street. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "He saw a beautiful bunch of juicy purple grapes hanging high up.",
-        "long_narration": "Suddenly, he stopped. Right above him, hanging from a thick green vine, was the biggest, juiciest bunch of purple grapes he had ever seen. His mouth started to water!",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty vineyard background on the left and right sides. An orange fox staring up with wide eyes and a smiling face at shiny, plump purple grapes. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "He carried the bone in his mouth to find a quiet place to eat.",
+        "long_narration": "He didn't want to share his tasty prize with anyone. So, he held the big bone tightly in his mouth and trotted off to find a quiet place in the woods to eat it all by himself.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty forest path background on the left and right sides. A brown dog trotting happily down a dirt path, proudly holding a large bone in his mouth. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "The fox licked his lips and decided he wanted them for a snack.",
-        "long_narration": "\"Just the thing to quench my thirst and fill my tummy!\" the fox said aloud. He licked his lips and got ready to grab a tasty afternoon snack.",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty vineyard background on the left and right sides. An orange fox licking his lips and crouching down, getting ready to jump. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "On his way, he had to cross a narrow bridge over a clear stream.",
+        "long_narration": "To get to his secret spot, the dog had to walk across a very narrow wooden bridge that went straight over a quiet, crystal-clear stream of water.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty river background on the left and right sides. A brown dog carrying a bone, walking slowly across a small wooden bridge over a bright blue stream. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "He took a big jump, but he couldn't reach the high branch.",
-        "long_narration": "The fox took a few steps back, ran forward, and took a massive jump into the air! SNAP! But his jaws closed on empty air. He missed the grapes by a long shot.",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty sunny sky background on the left and right sides. An orange fox jumping high in the air with his mouth open, just missing a bunch of purple grapes. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "He looked down into the water and saw his own reflection.",
+        "long_narration": "As he was walking across, he happened to look down over the edge of the bridge. Staring back at him from the smooth water was his own reflection.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty clear water background on the left and right sides. A dog looking down from a wooden bridge into clear water, seeing the reflection of a dog with a bone. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "He tried again and again, jumping higher and higher!",
-        "long_narration": "He didn't give up. He backed up even further, ran even faster, and leaped with all his might! He tried again and again, jumping higher and higher each time.",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty vineyard background on the left and right sides. An orange fox jumping frantically in the air multiple times, with motion blur, trying to reach the grapes. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "But the silly dog thought it was another dog with a bigger bone!",
+        "long_narration": "But the dog didn't realize it was just a reflection! He thought it was a completely different dog standing in the water, and that other dog seemed to have an even bigger bone!",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty bridge background on the left and right sides. A dog growling slightly at his reflection in the water, imagining the reflection's bone is huge and glowing. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "But no matter what he did, the grapes were just too high.",
-        "long_narration": "Jump after jump, leap after leap, the fox kept failing. No matter how hard he stretched his paws, the delicious grapes were simply too high up on the vine.",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty dirt ground background on the left and right sides. An orange fox sitting on the ground, looking exhausted and sweaty, panting heavily. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "He became greedy and wanted the other dog's bone too.",
+        "long_narration": "The greedy dog wasn't happy with just his one bone anymore. He wanted that other dog's big bone too! So, he decided to scare the dog in the water and take it.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty bridge background on the left and right sides. A greedy dog with furrowed eyebrows, getting ready to bark angrily at the water. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "Finally, the fox gave up and sat down, feeling tired.",
-        "long_narration": "Finally, completely exhausted and out of breath, the fox gave up. He sat down in the dirt, dusted himself off, and glared up at the fruit he couldn't have.",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty vineyard background on the left and right sides. An orange fox dusting off his paws and glaring angrily up at the purple grapes. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "He opened his mouth to bark loudly. BARK!",
+        "long_narration": "He puffed out his chest and opened his jaws wide to let out a loud, terrifying bark to scare the other dog away. \"BARK!\"",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty bridge background on the left and right sides. A dog barking loudly with his mouth wide open, the bone falling out of his mouth in mid-air. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "He turned away and said, \"I bet those grapes are sour anyway!\"",
-        "long_narration": "Turning up his nose, he scoffed and walked away. \"I'm sure those grapes are sour anyway!\" he said to himself. \"I wouldn't want to eat them even if I could!\"",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty forest path background on the left and right sides. An orange fox walking away with his nose stuck up in the air, pretending he doesn't care. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "SPLASH! His own bone fell right into the deep river.",
+        "long_narration": "But the moment he opened his mouth to bark, his own delicious bone slipped out! SPLASH! It fell straight down into the deep river and sank fast to the bottom.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty river background on the left and right sides. A large white bone splashing into blue water, with a shocked dog watching from the bridge above. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "The fox walked away hungry. Remember, it's easy to dislike what you can't get.",
-        "long_narration": "The fox walked back into the forest, still very hungry. Remember my friends, the learning of this story is... It is easy to despise what you cannot have.",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty sunset forest background on the left and right sides. An orange fox walking away into a beautiful sunset, leaving the vineyard behind. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "Now he had no bones at all. Remember, don't be greedy!",
+        "long_narration": "The reflection vanished, and the dog was left with nothing at all. He went home very hungry. Remember my friends, the learning of this story is... Be content with what you have.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty bridge background on the left and right sides. A very sad, hungry brown dog with drooping ears walking away from the bridge with an empty mouth. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       }
     ],
-    "description": "The Fox and the Grapes | A fun animated moral story for kids!\n\nMoral: It is easy to despise what you cannot have.\n\n#Shorts #KidsStory #MoralStory #BedtimeStory #AnimatedStory",
+    "description": "The Dog and the Bone | A fun animated moral story for kids!\n\nMoral: Be content with what you have.\n\n#Shorts #KidsStory #MoralStory #BedtimeStory #AnimatedStory",
     "tags": [
       "kids story",
       "moral story",
@@ -136,67 +420,67 @@
       "story for kids",
       "life lesson",
       "short story",
-      "the fox and the grapes",
-      "sour grapes"
+      "dog and bone",
+      "don't be greedy"
     ]
   },
   {
-    "id": 7,
-    "title": "The Ugly Duckling",
-    "moral": "Never judge someone by their appearance.",
+    "id": 16,
+    "title": "Belling the Cat",
+    "moral": "It is easy to propose impossible remedies.",
     "scenes": [
       {
-        "short_narration": "This is the story of... The Ugly Duckling!",
-        "long_narration": "Welcome everyone! Today, we are going to tell you the beautiful and touching story of... The Ugly Duckling!",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty blue pond background on the left and right sides. A small grey, awkward-looking bird standing next to a beautiful white swan. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "This is the story of... Belling the Cat!",
+        "long_narration": "Welcome everyone! Today, we are going to tell you the clever and tricky story of... Belling the Cat!",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty basement background on the left and right sides. A group of little brown mice holding a secret meeting, with a shadow of a big cat on the wall. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "A mother duck was waiting for her little eggs to hatch.",
-        "long_narration": "It was a beautiful spring day by the pond. A proud mother duck was sitting on her nest, patiently waiting for her little eggs to finally hatch into baby ducks.",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty green reeds background on the left and right sides. A happy mother duck sitting on a cozy nest of twigs near a blue pond. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "A family of mice lived in a house with a very sneaky, dangerous cat.",
+        "long_narration": "Once upon a time, a large family of mice lived in a cozy house. But they had a huge problem! A very sneaky and dangerous house cat was always hunting them.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty hallway background on the left and right sides. Several scared mice hiding behind a broom while a big orange cat walks by quietly on tiptoes. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "Crack! Crack! Cute little yellow ducklings popped out of the eggs.",
-        "long_narration": "Crack! Crack! One by one, the eggs broke open. Out popped the cutest, fluffiest little yellow ducklings you have ever seen! The mother duck was so happy.",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty nest background on the left and right sides. Three tiny, fluffy yellow ducklings hatching out of white eggshells. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "The mice were terrified and held a meeting to find a solution.",
+        "long_narration": "The mice were absolutely terrified to even leave their holes to look for cheese. So, the oldest mouse called for a special, secret meeting to figure out a plan.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty mouse hole interior background on the left and right sides. A large group of mice sitting in a circle in a dark hole, looking worried while an old mouse stands on a spool of thread to speak. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "But the last egg was huge, and out came a big, grey bird!",
-        "long_narration": "But the last egg was much bigger than the rest. When it finally cracked open, out tumbled a big, awkward, grey bird. He didn't look like a duckling at all!",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty nest background on the left and right sides. A large, clumsy grey bird hatching from a giant egg, looking confused while the yellow ducklings stare at him. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "They needed a way to know when the sneaky cat was coming.",
+        "long_narration": "Many mice spoke up. \"We need to know when the cat is sneaking up on us!\" one mouse squeaked. \"But his paws are too soft, he makes no noise!\" cried another.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty mouse hole interior background on the left and right sides. Mice arguing and throwing up their hands in panic, looking stressed. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "The other animals laughed at him and called him ugly.",
-        "long_narration": "The other farm animals were not very nice. They pointed their wings and hooves at the poor little bird, laughing and calling him the \"Ugly Duckling.\"",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty farmyard background on the left and right sides. A sad grey bird surrounded by laughing chickens, pigs, and yellow ducklings. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "A young, smart mouse had a brilliant idea!",
+        "long_narration": "Finally, a very young and confident mouse stood up. \"I have a brilliant idea!\" he announced proudly, puffing out his little chest.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty mouse hole interior background on the left and right sides. A young, confident mouse standing tall with a bright glowing lightbulb over his head, pointing his finger up. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "Feeling very sad, the poor duckling ran away from the farm.",
-        "long_narration": "Feeling heartbroken and very lonely, the poor ugly duckling decided he didn't belong there. He packed a tiny bag and ran far away from the farm into the wild woods.",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty dark forest path background on the left and right sides. A sad grey bird walking away from a farm, carrying a tiny bindle stick over his shoulder. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "He said, \"Let's tie a little bell around the cat's neck!\"",
+        "long_narration": "\"It's simple!\" he squeaked. \"We just need to tie a little silver bell around the cat's neck! Then, whenever he moves, we will hear him jingling and can run away!\"",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty mouse hole interior background on the left and right sides. A young mouse holding up a drawing of a cat wearing a shiny collar with a silver bell. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "Winter came, and the duckling was freezing and alone.",
-        "long_narration": "Months passed, and the freezing winter arrived. The pond turned to ice, and the snow fell deep. The poor duckling was so cold and had no friends to keep him warm.",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty snowy landscape background on the left and right sides. A shivering grey bird hiding under a snowy log, looking very cold and lonely. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "All the mice cheered! It was the perfect plan.",
+        "long_narration": "All the other mice gasped, and then they started to cheer! \"Hooray! What a genius plan! We are saved!\" They danced around happily, feeling very relieved.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty mouse hole interior background on the left and right sides. A crowd of mice jumping in the air, throwing their little hats, and cheering with joy. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "Finally, spring arrived! The ice melted and the sun shone.",
-        "long_narration": "But winter doesn't last forever! Finally, the warm spring sun returned. The ice melted, the flowers bloomed, and the duckling stretched his long wings.",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty bright spring pond background on the left and right sides. A grey bird stretching his large wings under a bright yellow sun with colorful flowers blooming. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "But then, the old, wise mouse raised his hand to speak.",
+        "long_narration": "But the cheering stopped when the old, wise mouse raised his paw for silence. He didn't look happy. He stroked his grey whiskers and looked at the crowd.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty mouse hole interior background on the left and right sides. An old, serious mouse with glasses holding up one paw to stop the crowd, looking very thoughtful. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "He looked in the water and saw a beautiful white swan!",
-        "long_narration": "He swam out into the clear water and looked down at his reflection. He gasped! He wasn't a grey, ugly duckling anymore... he had grown into a breathtaking, beautiful white swan!",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty calm pond water background on the left and right sides. A beautiful white swan looking down into crystal clear water, seeing his own majestic reflection. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "He asked, \"Yes, but who is going to put the bell on the cat?\"",
+        "long_narration": "\"That is a very good plan, young one,\" the old mouse said slowly. \"But I have one question... Who is brave enough to actually walk up and tie the bell on the fierce cat?\"",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty mouse hole interior background on the left and right sides. An old mouse holding out a tiny collar with a bell towards the crowd of mice. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "He wasn't a duck at all! Remember, true beauty is found within.",
-        "long_narration": "The other swans swam over to welcome him. He finally knew where he belonged! Remember my friends, the learning of this story is... Never judge someone by their appearance.",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty sparkling blue pond background on the left and right sides. A happy, beautiful white swan swimming gracefully with a group of other friendly swans. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "No one moved. It was an impossible idea! Remember, saying is easier than doing.",
+        "long_narration": "The room went completely silent. Not a single mouse raised their paw. They were all too scared! Remember my friends, the learning of this story is... It is easy to propose impossible remedies.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty mouse hole interior background on the left and right sides. All the young mice looking down at the floor nervously, whistling and hiding behind each other. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       }
     ],
-    "description": "The Ugly Duckling | A fun animated moral story for kids!\n\nMoral: Never judge someone by their appearance.\n\n#Shorts #KidsStory #MoralStory #BedtimeStory #AnimatedStory",
+    "description": "Belling the Cat | A fun animated moral story for kids!\n\nMoral: It is easy to propose impossible remedies.\n\n#Shorts #KidsStory #MoralStory #BedtimeStory #AnimatedStory",
     "tags": [
       "kids story",
       "moral story",
@@ -206,67 +490,67 @@
       "story for kids",
       "life lesson",
       "short story",
-      "the ugly duckling",
-      "true beauty"
+      "belling the cat",
+      "easier said than done"
     ]
   },
   {
-    "id": 8,
-    "title": "The Goose that Laid the Golden Eggs",
-    "moral": "Greed destroys the source of good.",
+    "id": 17,
+    "title": "The Donkey in the Lion's Skin",
+    "moral": "Fine clothes may disguise, but silly words will disclose a fool.",
     "scenes": [
       {
-        "short_narration": "This is the story of... The Goose that Laid the Golden Eggs!",
-        "long_narration": "Welcome everyone! Today, we are going to tell you the amazing and magical story of... The Goose that Laid the Golden Eggs!",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty farm background on the left and right sides. A simple farmer standing next to a shiny white goose sitting on a bright gold egg. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "This is the story of... The Donkey in the Lion's Skin!",
+        "long_narration": "Welcome everyone! Today, we are going to tell you the funny and educational story of... The Donkey in the Lion's Skin!",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty forest background on the left and right sides. A silly grey donkey trying to put on a big, fluffy lion's skin costume. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "A poor farmer and his wife had a very special white goose.",
-        "long_narration": "Once upon a time, a poor farmer and his wife lived on a small farm. They didn't have much money, but they did have one very special, beautiful white goose.",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty barnyard background on the left and right sides. A poor farmer in overalls and his wife feeding corn to a beautiful white goose. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "A silly donkey found an old lion's skin left in the forest.",
+        "long_narration": "One day, a very silly grey donkey was walking through the woods when he stumbled upon something amazing. It was a real lion's skin that a hunter had left behind!",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty forest path background on the left and right sides. A grey donkey looking curiously at a large, furry lion skin lying in the grass. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "One morning, the goose laid a heavy, shiny, solid gold egg!",
-        "long_narration": "One morning, the farmer went out to the barn to gather the eggs. To his absolute amazement, his special goose had laid a heavy, shiny, solid gold egg!",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty wooden barn interior background on the left and right sides. A shocked farmer holding up a glowing, sparkling solid gold egg. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "He decided to wear it and play a trick on the other animals.",
+        "long_narration": "The donkey thought, \"If I put this on, everyone will think I am the brave king of the jungle!\" So, he draped the heavy skin over his back and tied it around his neck.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty forest background on the left and right sides. A donkey smiling mischievously while wrapping a lion skin around his body like a cape. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "They sold the egg and became very happy and rich.",
-        "long_narration": "The farmer ran inside to show his wife. They went to the market, sold the golden egg for a lot of money, and bought delicious food and warm clothes.",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty town market background on the left and right sides. A happy farmer and his wife holding bags of coins and smiling after selling the golden egg. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "He walked proudly through the woods, looking just like a fierce lion.",
+        "long_narration": "Looking just like a fierce, scary lion, the donkey marched proudly down the path, eager to show off his terrifying new outfit to everyone.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty forest background on the left and right sides. A donkey fully disguised as a lion walking confidently down a dirt path with his chest puffed out. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "Every single day, the goose laid another golden egg.",
-        "long_narration": "The magic didn't stop! Every single morning, the farmer would visit the barn, and the wonderful goose would lay exactly one perfect, golden egg.",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty barn background on the left and right sides. A beautiful white goose proudly sitting on a nest, with a golden egg resting underneath her. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "When the other animals saw him, they ran away in fear!",
+        "long_narration": "It worked perfectly! When the rabbits, deer, and squirrels saw him coming, they gasped in fear and ran away to hide in the bushes. They thought a real lion was coming!",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty forest background on the left and right sides. Rabbits, squirrels, and a deer running away in panic from the approaching disguised donkey. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "But the farmer became greedy and wanted all the gold at once.",
-        "long_narration": "As they got richer, the farmer and his wife became very greedy. 'Why should we wait every single day?' the farmer said. 'Let's get all the gold out of the goose at once!'",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty farmhouse kitchen background on the left and right sides. A greedy-looking farmer rubbing his hands together, imagining a giant pile of gold. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "The donkey thought this was the funniest thing ever.",
+        "long_narration": "The silly donkey thought this was the funniest trick in the whole world. He laughed so hard to himself, enjoying all the power and respect of a king.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty forest background on the left and right sides. A disguised donkey holding his stomach, chuckling silently to himself in the woods. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "He decided to look inside the goose to find all the gold.",
-        "long_narration": "The foolish farmer decided to open up the poor goose, thinking her tummy was completely filled with a huge pile of golden eggs.",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty barn background on the left and right sides. A farmer walking towards the goose holding a doctor's stethoscope, looking mischievous. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "He saw a clever fox and tried to scare him too.",
+        "long_narration": "Soon, he spotted a clever red fox walking down the trail. The donkey wanted to scare the fox more than anyone else, so he sneaked up right behind him.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty forest path background on the left and right sides. The disguised donkey sneaking up closely behind a calm-looking red fox. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "But when he looked inside, there was no gold at all!",
-        "long_narration": "But when he looked inside the goose, he was in for a terrible shock! There was no gold inside at all. She was just like any other normal goose on the inside.",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty barn background on the left and right sides. A shocked and horrified farmer dropping his hat, staring in disbelief with empty hands. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "The donkey opened his mouth to give a scary roar.",
+        "long_narration": "The donkey leaped out from the bushes! He opened his mouth as wide as he could, intending to let out the most terrifying, mighty lion roar ever heard.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty forest background on the left and right sides. The disguised donkey jumping out and opening his mouth wide to roar at the fox. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "Now they had no goose, and no more golden eggs.",
-        "long_narration": "Because of his greed, the magical goose was gone forever. There would be no more golden eggs, no more riches, and no more magic.",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty farmhouse background on the left and right sides. A sad farmer and his wife sitting at an empty wooden table with torn clothes, looking miserable. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "But instead of a roar, out came a loud \"HEE-HAW!\"",
+        "long_narration": "But because he was just a donkey, a roar didn't come out. Instead, out came a massive, loud, and very embarrassing donkey bray: \"HEE-HAW! HEE-HAW!\"",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty forest background on the left and right sides. The disguised donkey looking embarrassed as large text symbols of musical notes and \"HEE-HAW\" burst from his mouth (metaphorically, no actual text). Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "They lost everything. Remember, greed destroys the source of good.",
-        "long_narration": "The farmer and his wife soon became poor again, regretting their foolish choice every day. Remember my friends, the learning of this story is... Greed destroys the source of good.",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty dirt yard background on the left and right sides. A sad farmer looking at an empty bird's nest on the ground, wiping away a tear. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "The fox just laughed! Remember, fine clothes can't hide who you are.",
+        "long_narration": "The clever fox didn't run. He just pointed and laughed! \"I might have been scared,\" said the fox, \"if you hadn't opened your mouth!\" Remember my friends, the learning of this story is... Fine clothes may disguise, but silly words will disclose a fool.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty forest background on the left and right sides. A red fox laughing out loud, pointing at the blushing donkey whose lion skin is slipping off. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       }
     ],
-    "description": "The Goose that Laid the Golden Eggs | A fun animated moral story for kids!\n\nMoral: Greed destroys the source of good.\n\n#Shorts #KidsStory #MoralStory #BedtimeStory #AnimatedStory",
+    "description": "The Donkey in the Lion's Skin | A fun animated moral story for kids!\n\nMoral: Fine clothes may disguise, but silly words will disclose a fool.\n\n#Shorts #KidsStory #MoralStory #BedtimeStory #AnimatedStory",
     "tags": [
       "kids story",
       "moral story",
@@ -276,67 +560,67 @@
       "story for kids",
       "life lesson",
       "short story",
-      "golden goose",
-      "dont be greedy"
+      "donkey in lions skin",
+      "be yourself"
     ]
   },
   {
-    "id": 9,
-    "title": "The City Mouse and the Country Mouse",
-    "moral": "Better a quiet life with little than a rich life with fear.",
+    "id": 18,
+    "title": "The Wolf in Sheep's Clothing",
+    "moral": "Appearances can be deceptive.",
     "scenes": [
       {
-        "short_narration": "This is the story of... The City Mouse and the Country Mouse!",
-        "long_narration": "Welcome everyone! Today, we are going to tell you the adventurous story of... The City Mouse and the Country Mouse!",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty split screen background showing country fields on the left and city lights on the right. A fancy mouse in a top hat standing next to a simple mouse in overalls. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "This is the story of... The Wolf in Sheep's Clothing!",
+        "long_narration": "Welcome everyone! Today, we are going to tell you the very important and cautious story of... The Wolf in Sheep's Clothing!",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty grassy hill background on the left and right sides. A sneaky grey wolf holding up a fluffy white sheep fleece. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "A fancy city mouse went to visit his cousin in the quiet country.",
-        "long_narration": "One day, a very fancy city mouse decided to take a trip and visit his humble cousin, who lived in a quiet little hole in the countryside.",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty grassy field background on the left and right sides. A mouse wearing a fancy suit carrying a tiny suitcase arriving at a hole in the dirt, greeted by a smiling country mouse. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "A hungry wolf wanted to eat the sheep, but the shepherd watched them closely.",
+        "long_narration": "Once, there was a very hungry wolf. He wanted nothing more than a nice, plump sheep for dinner. But a very careful shepherd and his dogs guarded the flock closely all day.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty farm pasture background on the left and right sides. A hungry wolf hiding behind a tree, watching a flock of sheep guarded by a shepherd and a tough farm dog. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "The country mouse served simple food like corn and seeds.",
-        "long_narration": "The kind country mouse was so happy! He served his very best food to his guest: a simple meal of corn kernels, wheat stalks, and wild berries.",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty cozy dirt hole background on the left and right sides. A country mouse offering a wooden bowl of seeds and corn to a city mouse who looks unimpressed. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "The wolf found an old sheep's fleece and put it on.",
+        "long_narration": "The wolf couldn't get near them! But then, he found an old, white, fluffy sheep's fleece that the shepherd had left on the ground. He had a wicked idea.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty field background on the left and right sides. A grey wolf pulling a fluffy white sheep fleece over his head and body like a fuzzy coat. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "The city mouse didn't like it. He invited his cousin to the big city!",
-        "long_narration": "The city mouse turned up his nose. 'How can you eat this plain food?' he asked. 'Come back to the city with me, and I will show you how to truly feast!'",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty country dirt hole background on the left and right sides. A fancy city mouse pointing dramatically away, while the country mouse looks curious and excited. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "Dressed as a sheep, he sneaked right into the middle of the flock.",
+        "long_narration": "Wearing the fluffy disguise, the wolf looked exactly like a real sheep. He quietly sneaked past the dogs and walked right into the very center of the grazing flock.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty grassy field background on the left and right sides. A wolf covered in a sheep fleece walking calmly among real sheep, who don't notice him at all. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "They traveled together to a huge, beautiful house in the city.",
-        "long_narration": "So, the two little mice traveled a long way until they reached a giant, beautiful, sparkling mansion right in the middle of the busy city.",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty giant living room floor background on the left and right sides. Two tiny mice standing in awe on a massive luxury carpet, looking up at towering furniture. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "The other sheep thought he was just a new friend.",
+        "long_narration": "The trick worked perfectly. The other sheep just \"Baaed\" at him, thinking he was a fluffy new friend, completely unaware of the terrible danger among them.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty pasture background on the left and right sides. A real sheep smiling and offering a blade of grass to the disguised wolf, who is smiling wickedly. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "There was a giant feast with cheese, cakes, and sweet treats!",
-        "long_narration": "They crept into the dining room, and the country mouse couldn't believe his eyes! The table was covered in delicious yellow cheese, fluffy cakes, and sweet sugary treats!",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty wooden dining table background on the left and right sides. Two mice sitting on a giant table surrounded by huge blocks of cheese, cupcakes, and fruits. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "Even the shepherd thought the wolf was a big, fluffy sheep.",
+        "long_narration": "Even the clever shepherd was fooled! He counted his sheep and locked them all safely inside the wooden barn for the night, including the disguised wolf.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty barn door background on the left and right sides. A shepherd closing a large wooden barn door, locking the sheep and the disguised wolf inside for the night. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "Suddenly, they heard a loud growl. A giant cat jumped on the table!",
-        "long_narration": "Just as they were about to take their first bite of cake, they heard a terrible sound. MEOW! A giant, scary house cat leaped right up onto the table!",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty dining table background on the left and right sides. Two terrified mice dropping their food as a giant, scary but child-friendly orange cat jumps onto the table behind them. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "The wolf licked his lips, waiting for the farmer to go to sleep.",
+        "long_narration": "Inside the dark barn, the wolf licked his chops. He just had to wait until the farmer was fast asleep, and then he would have a massive feast all to himself!",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty dark barn interior background on the left and right sides. A disguised wolf hiding in the shadows of the barn, rubbing his paws together and licking his lips. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "The mice ran as fast as they could to hide in a tiny hole.",
-        "long_narration": "The two cousins dropped their food and ran for their lives! They scrambled down the table leg and squeezed into a tiny crack in the wall, just in time.",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty dark wall space background on the left and right sides. Two mice panting and shaking inside a dark, tiny mouse hole, holding onto each other. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "But that night, the farmer wanted mutton for his own dinner.",
+        "long_narration": "However, later that night, the shepherd got hungry. He decided he wanted some mutton for his own dinner, so he went into the dark barn to grab the biggest sheep he could find.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty barn interior background on the left and right sides. The shepherd walking into the dark barn carrying a lantern, looking for a plump sheep. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "The country mouse packed his bags and decided to go home.",
-        "long_narration": "When it was safe, the country mouse grabbed his hat. 'Goodbye, cousin,' he said. 'Your food is delicious, but it is way too dangerous here!'",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty luxury floor background on the left and right sides. A country mouse waving goodbye to the city mouse, holding a tiny bag and heading toward the front door. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "In the dark, the farmer grabbed the disguised wolf by mistake!",
+        "long_narration": "In the pitch dark, the farmer couldn't see well. He reached out and grabbed the biggest, fluffiest shape he could find... which happened to be the wolf in disguise!",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty barn interior background on the left and right sides. The shepherd grabbing the frightened, disguised wolf by the ear in the dark. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       },
       {
-        "short_narration": "He preferred his quiet life! Remember, peace is better than scary riches.",
-        "long_narration": "The country mouse went back to his simple home, happy to eat his plain seeds in peace. Remember my friends, the learning of this story is... Better a quiet life with little than a rich life with fear.",
-        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty cozy country hole background on the left and right sides. A happy country mouse relaxing in a tiny chair, eating a piece of corn peacefully. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+        "short_narration": "The wolf's trick failed terribly! Remember, appearances can be deceptive.",
+        "long_narration": "The wolf's evil trick ended up being his own downfall. He never got to eat a sheep! Remember my friends, the learning of this story is... Appearances can be deceptive.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty barnyard background on the left and right sides. A scared wolf running far away into the hills without his disguise, chased by the angry farmer and his dog. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
       }
     ],
-    "description": "The City Mouse and the Country Mouse | A fun animated moral story for kids!\n\nMoral: Better a quiet life with little than a rich life with fear.\n\n#Shorts #KidsStory #MoralStory #BedtimeStory #AnimatedStory",
+    "description": "The Wolf in Sheep's Clothing | A fun animated moral story for kids!\n\nMoral: Appearances can be deceptive.\n\n#Shorts #KidsStory #MoralStory #BedtimeStory #AnimatedStory",
     "tags": [
       "kids story",
       "moral story",
@@ -346,8 +630,148 @@
       "story for kids",
       "life lesson",
       "short story",
-      "city mouse and country mouse",
-      "peaceful life"
+      "wolf in sheeps clothing",
+      "appearances can be deceptive"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "The Peacock and the Crane",
+    "moral": "Fine feathers don't make fine birds.",
+    "scenes": [
+      {
+        "short_narration": "This is the story of... The Peacock and the Crane!",
+        "long_narration": "Welcome everyone! Today, we are going to tell you the colorful and thoughtful story of... The Peacock and the Crane!",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty beautiful garden background on the left and right sides. A proud peacock with colorful tail feathers standing next to a simple grey crane. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "A very proud peacock loved to show off his beautiful feathers.",
+        "long_narration": "Once there was a peacock who was incredibly proud of his looks. He had the most beautiful, shiny, colorful tail feathers, and he loved showing them off to everyone.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty garden background on the left and right sides. A proud peacock strutting around with his massive, glowing green and blue tail feathers fully spread open. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "He met a simple, grey crane and made fun of his dull colors.",
+        "long_narration": "One day, he met a crane by the river. The crane only had plain, dusty grey feathers. The peacock laughed at him and made fun of his dull, boring color.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty riverbank background on the left and right sides. A laughing peacock pointing his wing at a calm, grey crane standing in shallow water. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "The peacock said, \"Look at my gorgeous colors! You look so plain.\"",
+        "long_narration": "\"Just look at my gorgeous, royal colors!\" boasted the peacock, fanning his tail. \"I am dressed like a king, and you look like a pile of dusty old rags.\"",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty riverbank background on the left and right sides. The peacock showing off, leaning close to the crane who just looks back peacefully. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "The crane smiled gently and wasn't upset at all.",
+        "long_narration": "The wise crane didn't get angry or upset. He just smiled gently at the silly, vain peacock. He knew that looks weren't everything in the world.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty riverbank background on the left and right sides. A close-up view of the crane smiling peacefully with its eyes closed, ignoring the peacock's showing off. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "The crane said, \"Your feathers are beautiful, but they keep you on the ground.\"",
+        "long_narration": "The crane replied calmly, \"It is true, your feathers are much more beautiful than mine. But they are so heavy, they keep you stuck down here on the dirt.\"",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty riverbank background on the left and right sides. The crane pointing down at the dirt, while the peacock struggles slightly to carry his heavy tail. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "Then, the crane spread his large wings and took off!",
+        "long_narration": "Then, the crane spread his own long, strong, grey wings. With a mighty flap, he lifted gracefully off the ground and flew high up into the sky.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty blue sky background on the left and right sides. A grey crane spreading large wings and taking off gracefully into the air, leaving the ground behind. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "He soared high into the clouds, touching the stars.",
+        "long_narration": "He soared higher and higher, way past the trees, flying among the fluffy white clouds and reaching toward the endless blue sky.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty cloudy sky background on the left and right sides. A crane soaring high in the beautiful blue sky surrounded by fluffy white clouds. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "The peacock tried to follow, but he couldn't fly high at all.",
+        "long_narration": "The peacock watched in awe. He tried to flap his wings and fly up to join him, but his beautiful tail was just too heavy. He could barely flutter over a small bush.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty garden background on the left and right sides. A peacock flapping his wings hard but only lifting a few inches off the ground, looking frustrated. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "The crane had real freedom! Remember, looks aren't everything.",
+        "long_narration": "The peacock realized that the crane's plain feathers gave him real freedom, while his own beauty just kept him trapped. Remember my friends, the learning of this story is... Fine feathers don't make fine birds.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty landscape background on the left and right sides. A humbled peacock looking up admiringly at a tiny silhouette of the crane flying high in the sky. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      }
+    ],
+    "description": "The Peacock and the Crane | A fun animated moral story for kids!\n\nMoral: Fine feathers don't make fine birds.\n\n#Shorts #KidsStory #MoralStory #BedtimeStory #AnimatedStory",
+    "tags": [
+      "kids story",
+      "moral story",
+      "bedtime story",
+      "children story",
+      "animated story",
+      "story for kids",
+      "life lesson",
+      "short story",
+      "peacock and crane",
+      "inner beauty"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "The Farmer and His Sons",
+    "moral": "Unity is strength.",
+    "scenes": [
+      {
+        "short_narration": "This is the story of... The Farmer and His Sons!",
+        "long_narration": "Welcome everyone! Today, we are going to tell you the powerful and wise story of... The Farmer and His Sons!",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty farm background on the left and right sides. An old wise farmer standing with three young men who look like they are arguing. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "An old farmer had three strong sons who always fought with each other.",
+        "long_narration": "Once upon a time, an old, hardworking farmer had three very strong sons. But the sons never got along. They were always bickering and fighting over silly things.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty farmyard background on the left and right sides. Three brothers yelling at each other and pointing fingers, while an old farmer shakes his head in the background. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "The father wanted to teach them a lesson about working together.",
+        "long_narration": "The father was getting old and wanted his sons to learn how to work together in peace. He decided he needed to teach them a very important lesson.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty farmhouse porch background on the left and right sides. An old farmer sitting in a rocking chair, looking thoughtful and stroking his chin. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "He called them together and gave them a bundle of thin sticks.",
+        "long_narration": "He called all three sons into the yard. He handed them a tight bundle of thin, wooden sticks tied firmly together with a piece of tough rope.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty farmyard background on the left and right sides. An old farmer holding out a thick bundle of wooden sticks tied with rope to his three confused sons. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "He asked the strongest son to break the whole bundle in half.",
+        "long_narration": "\"I want you to break this bundle of sticks in half,\" the father instructed. The strongest son stepped forward, laughed, and took the bundle, thinking it would be easy.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty farmyard background on the left and right sides. The biggest, strongest brother flexing his muscles and grabbing the bundle of sticks confidently. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "The son tried and tried, but the bundle was too strong!",
+        "long_narration": "He pushed and pulled! He bent it over his knee with all his might! But no matter how hard the strong boy tried, the bundled sticks wouldn't break at all.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main character perfectly centered in the middle of the frame, massive expansive empty farmyard background on the left and right sides. The strong brother turning red in the face, sweating, and struggling hard to bend the bundle of sticks. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "The other brothers tried too, but no one could break it.",
+        "long_narration": "The other two brothers laughed and said, \"Let me try!\" But they both failed as well. Together, the tied sticks were simply unbreakable.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty farmyard background on the left and right sides. All three brothers looking exhausted and defeated, sitting on the ground next to the unbroken bundle. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "Then, the father untied the string and handed out single sticks.",
+        "long_narration": "The wise father smiled gently. He took the bundle back, untied the thick rope, and handed a single, thin stick to each of his sons.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty farmyard background on the left and right sides. The old farmer untying the rope and handing one single thin wooden stick to each son. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "He told them to break the single sticks. SNAP! It was so easy.",
+        "long_narration": "\"Now try,\" he said softly. The sons easily snapped the single sticks in half with just two fingers. SNAP! SNAP! SNAP! It took no effort at all.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty farmyard background on the left and right sides. The three brothers easily snapping the single sticks in half with smiles on their faces. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      },
+      {
+        "short_narration": "Together they were strong, apart they were weak. Remember, unity is strength!",
+        "long_narration": "The father said, \"If you stay together like the bundle, no one can break you. If you fight and stay apart, you will snap like single sticks.\" Remember my friends, the learning of this story is... Unity is strength.",
+        "image_prompt": "Extreme wide-angle shot, zoomed out, main characters perfectly centered in the middle of the frame, massive expansive empty farmyard background on the left and right sides. The three brothers smiling and hugging each other, while the proud father watches happily. Bright colorful Pixar-style 3D animation, child-friendly, no text, 4k quality."
+      }
+    ],
+    "description": "The Farmer and His Sons | A fun animated moral story for kids!\n\nMoral: Unity is strength.\n\n#Shorts #KidsStory #MoralStory #BedtimeStory #AnimatedStory",
+    "tags": [
+      "kids story",
+      "moral story",
+      "bedtime story",
+      "children story",
+      "animated story",
+      "story for kids",
+      "life lesson",
+      "short story",
+      "the farmer and his sons",
+      "unity is strength"
     ]
   }
 ]
