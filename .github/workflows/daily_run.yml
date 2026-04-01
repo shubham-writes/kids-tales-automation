@@ -1,0 +1,62 @@
+name: StoryMaker 3 Daily Run
+
+on:
+  schedule:
+    # 7:30 AM UTC is 1:00 PM IST
+    - cron: '30 7 * * *'
+  workflow_dispatch: # Allows you to manually trigger it from the Actions tab
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python 3.11
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+
+    - name: Install System Dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y ffmpeg
+
+    - name: Install Python Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Generate .env File from Secrets
+      run: |
+        echo "NVIDIA_API_KEY=${{ secrets.NVIDIA_API_KEY }}" >> .env
+        echo "NVIDIA_SD3_API_KEY=${{ secrets.NVIDIA_SD3_API_KEY }}" >> .env
+        echo "NVIDIA_FLUX1_API_KEY=${{ secrets.NVIDIA_FLUX1_API_KEY }}" >> .env
+        echo "HF_API_KEY=${{ secrets.HF_API_KEY }}" >> .env
+        echo "GHOST_API_KEY=${{ secrets.GHOST_API_KEY }}" >> .env
+        echo "BYTEZ_API_KEY=${{ secrets.BYTEZ_API_KEY }}" >> .env
+        echo "CLOUDFLARE_ACCOUNT_ID=${{ secrets.CLOUDFLARE_ACCOUNT_ID }}" >> .env
+        echo "CLOUDFLARE_API_TOKEN=${{ secrets.CLOUDFLARE_API_TOKEN }}" >> .env
+        echo "TELEGRAM_BOT_TOKEN=${{ secrets.TELEGRAM_BOT_TOKEN }}" >> .env
+        echo "TELEGRAM_CHAT_ID=${{ secrets.TELEGRAM_CHAT_ID }}" >> .env
+        
+    - name: Create YouTube Token
+      run: |
+        echo '${{ secrets.YOUTUBE_TOKEN_JSON }}' > youtube_token.json
+
+    - name: Run StoryMaker 3 Pipeline
+      run: |
+        python main.py
+        
+    - name: Commit and Push Updated Memory Files
+      if: always() # Run even if pipeline fails, in case it marked used_stories but crashed later
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add used_stories.json scheduled_videos.json
+        # Only commit if there are changes
+        git diff-index --quiet HEAD || git commit -m "chore: update used stories memory [skip ci]"
+        git push

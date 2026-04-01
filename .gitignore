@@ -1,0 +1,9 @@
+.env
+client_secrets.json
+youtube_token.json
+push_error.txt
+__pycache__/
+output/
+*.mp4
+*.mp3
+*.log
