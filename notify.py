@@ -11,10 +11,10 @@ from dotenv import load_dotenv
 # Ensure .env is loaded so we can read tokens if running locally
 load_dotenv()
 
-def send_telegram_alert(message: str):
+def send_telegram_alert(message: str, silent: bool = False):
     """
-    Sends an HTML-formatted message to the Telegram bot configured in .env
-    Requires TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID.
+    Sends a message to the Telegram bot.
+    Set silent=True for non-urgent success messages (no phone buzz).
     """
     token = os.getenv("TELEGRAM_BOT_TOKEN")
     chat_id = os.getenv("TELEGRAM_CHAT_ID")
@@ -27,6 +27,7 @@ def send_telegram_alert(message: str):
     payload = {
         "chat_id": chat_id,
         "text": message,
+        "disable_notification": silent,
     }
     
     try:

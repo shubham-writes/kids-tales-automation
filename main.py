@@ -76,6 +76,15 @@ def main():
             update_last_schedule(is_short=False, dt_str=long_publish_at)
             logger.info(f"  Long Scheduled: {long_url}")
 
+            # Silent success notification
+            send_telegram_alert(
+                f"✅ StoryMaker 3 done!\n"
+                f"📖 Story: {story.title}\n"
+                f"▶️ Short: {short_url}\n"
+                f"🎬 Long: {long_url}",
+                silent=True
+            )
+
         # ── Step 7: Cleanup Temporary Files ────────────────
         logger.info("\n🧹 STEP 6: Cleaning up output directory...")
         cleanup_temp_files(run_dir, keep_final=args.skip_upload)
