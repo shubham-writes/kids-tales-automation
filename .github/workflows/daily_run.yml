@@ -6,6 +6,9 @@ on:
     - cron: '30 7 * * *'
   workflow_dispatch: # Allows you to manually trigger it from the Actions tab
 
+permissions:
+  contents: write   # Allows the bot to push updated memory files back
+
 jobs:
   pipeline:
     runs-on: ubuntu-latest
