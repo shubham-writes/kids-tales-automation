@@ -36,7 +36,7 @@ TTS_RATE = "+10%"                # Slightly faster for engagement
 FONTS_DIR = PROJECT_ROOT / "fonts"
 # Arial Bold is built into every Windows installation — no download needed.
 # PIL loads it directly from C:\Windows\Fonts.
-FONT_PATH = FONTS_DIR / "Arimo-Bold.ttf"
+FONT_PATH = str(FONTS_DIR / "Arimo-Bold.ttf")
 FONT_SIZE = 50  # Larger for YouTube Shorts readability
 FONT_COLOR = "white" 
 STROKE_COLOR = "black"
