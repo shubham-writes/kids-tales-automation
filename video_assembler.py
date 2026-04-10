@@ -21,7 +21,7 @@ from config import (
     VIDEO_WIDTH, VIDEO_HEIGHT, VIDEO_FPS,
     VIDEO_CODEC, AUDIO_CODEC,
     ZOOM_START, ZOOM_END,
-    FONT_SIZE, FONT_NAME, FONT_COLOR, STROKE_COLOR, STROKE_WIDTH,
+    FONT_SIZE, FONT_PATH, FONT_COLOR, STROKE_COLOR, STROKE_WIDTH,
     SUBTITLE_Y_POSITION,
     LONG_VIDEO_WIDTH, LONG_VIDEO_HEIGHT,
     LONG_FONT_SIZE, LONG_SUBTITLE_Y_POSITION,
@@ -177,7 +177,7 @@ def _create_subtitle_clips(subs: list[dict], canvas_w: int,
     """Create word-grouped subtitle TextClips synced to word boundaries."""
     clips = []
     current_chunk = []
-    font_path = FONT_NAME
+    font_path = FONT_PATH
 
     for w in subs:
         current_chunk.append(w)

@@ -34,9 +34,8 @@ TTS_RATE = "+10%"                # Slightly faster for engagement
 
 # ─── Subtitle / Font Settings ────────────────────────────────────────
 FONTS_DIR = PROJECT_ROOT / "fonts"
-# Arial Bold is built into every Windows installation — no download needed.
-# PIL loads it directly from C:\Windows\Fonts.
-FONT_NAME = "arialbd.ttf"
+# Montserrat is bundled in the repo — works on both Windows & Linux/GitHub Actions
+FONT_PATH = str(FONTS_DIR / "Montserrat-VariableFont_wght.ttf")
 FONT_SIZE = 50  # Larger for YouTube Shorts readability
 FONT_COLOR = "white" 
 STROKE_COLOR = "black"

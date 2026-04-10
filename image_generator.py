@@ -17,7 +17,7 @@ from urllib.parse import quote
 
 from PIL import Image, ImageDraw, ImageFont
 
-from config import VIDEO_WIDTH, VIDEO_HEIGHT, IMAGE_RETRY_ATTEMPTS, IMAGE_RETRY_DELAY, IMAGE_API_URL
+from config import VIDEO_WIDTH, VIDEO_HEIGHT, IMAGE_RETRY_ATTEMPTS, IMAGE_RETRY_DELAY, IMAGE_API_URL, FONT_PATH
 from utils import logger
 from story_picker import StoryData
 
@@ -302,7 +302,7 @@ def _create_fallback_image(text: str, save_path: Path):
     img = Image.new("RGB", (VIDEO_WIDTH, VIDEO_HEIGHT), color=(20, 30, 60))
     d = ImageDraw.Draw(img)
     try:
-        font = ImageFont.truetype("arialbd.ttf", 60)
+        font = ImageFont.truetype(FONT_PATH, 60)
     except IOError:
         font = ImageFont.load_default()
     wrapped = "\n".join(textwrap.wrap(f"API unavailable\n\nScene:\n{text}", width=40))
